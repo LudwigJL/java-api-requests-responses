@@ -24,4 +24,5 @@ class Student {
     public void setLastName(String updatedName){
         lastName =updatedName;
     }
+
 }
